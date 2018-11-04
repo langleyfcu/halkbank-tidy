@@ -1,0 +1,111 @@
+﻿body
+{
+	
+	
+	
+}
+
+fieldset
+{
+	padding: 3px 10px 10px 10px;
+	margin: 11px;
+	width: 410px;
+	display: block;
+}
+
+
+
+label
+{
+	display: block;
+	margin: 0 0 5px 0;
+}
+
+
+
+span.status
+{
+	
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.inProgress
+{
+	font-size: 0.8em;
+	font-weight: bold;
+	color: gray;
+}
+
+.correct
+{
+	font-size: 0.8em;
+	font-weight: bold;
+	color: Green;
+}
+
+.incorrect
+{
+	font-size: 0.8em;
+	font-weight: bold;
+	color: Red;
+}
+
+
+.note
+{
+	
+	width: 310px;
+}
+
+	.note p
+	{
+		font-size: 12px;
+	}
+
+	.note ul
+	{
+		
+		list-style-type: disc;
+	}
+
+	.note li
+	{
+		font-size: 12px;
+		margin: 0 0 5px 0;
+	}
+
+#notes
+{
+	position: absolute;
+	top: 15px;
+	left: 465px;
+}
+
+h1
+{
+	
+	
+	font-size: 17px;
+	font-family: Arial;
+	width: 440px;
+}
+
+h2
+{
+	
+	font-size: 15px;
+}
+
+h3
+{
+	margin: 0;
+	padding: 0;
+	font-variant: small-caps;
+	font-size: 13px;
+}
+
+.warning
+{
+	color: Red;
+}
